@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Nathã Souza Lopes
+Desenvolvedor Mobile
+
+📱 Apaixonado por criar aplicativos móveis que proporcionam experiências incríveis para os usuários.
+
+## Sobre Mim
+
+Sou um desenvolvedor mobile com 1 ano de experiência na criação de aplicativos iOS e Android. Tenho forte habilidade técnica e uma paixão por aprender e implementar as mais recentes tecnologias no desenvolvimento de software.
+
+## Tecnologias e Habilidades
+
+- Desenvolvimento Mobile
+- JavaScript, TypeScript
+- React Native
+- UI/UX Design
+- Git, GitHub
+
+## Contato
+
+- Email: [souzanatha04@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/natha-souza-lopes/]
+

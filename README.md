@@ -26,6 +26,7 @@ Sou um desenvolvedor mobile com 1 ano de experiência na criação de aplicativo
 
 - Desenvolvimento Mobile
 - JavaScript, TypeScript
+- React
 - React Native
 - UI/UX Design
 - Git, GitHub

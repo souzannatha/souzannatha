@@ -20,7 +20,7 @@ Desenvolvedor Mobile
 
 ## Sobre Mim
 
-Sou um desenvolvedor mobile com 1 ano de experiência na criação de aplicativos iOS e Android. Tenho forte habilidade técnica e uma paixão por aprender e implementar as mais recentes tecnologias no desenvolvimento de software.
+Sou um desenvolvedor mobile com 1 ano de experiência na criação de aplicativos iOS e Android. Tenho forte habilidade técnica e uma paixão por aprender e implementar as mais recentes tecnologias.
 
 ## Tecnologias e Habilidades
 

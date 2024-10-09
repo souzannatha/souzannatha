@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Nathã Souza Lopes
-Desenvolvedor Mobile
+Desenvolvedor Front-end
 
-📱 Apaixonado por criar aplicativos móveis que proporcionam experiências incríveis para os usuários.
+📱 Apaixonado por criar sites e aplicativos  que proporcionam experiências incríveis para os usuários.
 
 ## Sobre Mim
 

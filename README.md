@@ -3,11 +3,12 @@
 > *"Um investimento em conhecimento paga os melhores juros."*
 > **— Benjamin Franklin**
 
-Sou **Desenvolvedor Full Stack** com foco em **Backend**, apaixonado por construir aplicações escaláveis, bem arquitetadas e que resolvam problemas reais.
+Sou **Desenvolvedor Full Stack** com foco em **Backend**. Gosto de criar aplicações que sejam bem estruturadas, escaláveis e, acima de tudo, que resolvam problemas de forma simples e eficiente.
 
-Atualmente trabalho desenvolvendo aplicações web, mobile e APIs utilizando o ecossistema JavaScript/TypeScript. Nos últimos meses tenho direcionado minha carreira para engenharia de software e desenvolvimento backend, aprofundando meus estudos em arquitetura, bancos de dados, mensageria e sistemas distribuídos.
+No dia a dia, trabalho com o desenvolvimento de aplicações web, mobile e APIs utilizando o ecossistema JavaScript/TypeScript. Tenho direcionado minha carreira para backend e engenharia de software, buscando entender não apenas como implementar uma solução, mas também as decisões de arquitetura que tornam um sistema mais robusto e fácil de manter.
 
-Estou cursando **Engenharia de Software (6º período)** e também sou aluno da **Rocketseat**, onde continuo aprimorando minhas habilidades e acompanhando as melhores práticas do mercado.
+Atualmente curso **Engenharia de Software (6º período)** e também sou aluno da **Rocketseat**. Ainda assim, acredito que grande parte do aprendizado acontece na prática. Gosto de pesquisar, testar novas tecnologias e quebrar a cabeça até entender como as coisas realmente funcionam e encontrar a melhor solução para cada desafio.
+
 
 ## 🚀 Atualmente
 

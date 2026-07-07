@@ -1,6 +1,4 @@
-# Hello World! 👋
-
-## Eu sou o Nathã Souza Lopes
+## Oi! Eu sou o Nathã Souza Lopes
 
 > *"Um investimento em conhecimento paga os melhores juros."*
 > **— Benjamin Franklin**

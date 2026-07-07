@@ -1,42 +1,39 @@
-# Nathã Souza Lopes
+# Hello World! 👋
+
+## Eu sou o Nathã Souza Lopes
 
 > *"Um investimento em conhecimento paga os melhores juros."*
 > **— Benjamin Franklin**
 
-Desenvolvedor **Full Stack** com foco em desenvolvimento **Backend**, apaixonado por construir aplicações escaláveis, performáticas e bem arquitetadas.
+Sou **Desenvolvedor Full Stack** com foco em **Backend**, apaixonado por construir aplicações escaláveis, bem arquitetadas e que resolvam problemas reais.
 
-Atualmente concentro meus estudos e projetos em arquitetura de software, APIs REST, bancos de dados e boas práticas de desenvolvimento, utilizando principalmente **NestJS**, **Fastify**, **PostgreSQL**, **Redis** e **Prisma**.
+Atualmente trabalho desenvolvendo aplicações web, mobile e APIs utilizando o ecossistema JavaScript/TypeScript. Nos últimos meses tenho direcionado minha carreira para engenharia de software e desenvolvimento backend, aprofundando meus estudos em arquitetura, bancos de dados, mensageria e sistemas distribuídos.
 
-## Sobre
+Estou cursando **Engenharia de Software (6º período)** e também sou aluno da **Rocketseat**, onde continuo aprimorando minhas habilidades e acompanhando as melhores práticas do mercado.
+
+## 🚀 Atualmente
 
 * 💼 Desenvolvedor Full Stack
-* 🎯 Foco atual em Backend
-* 📚 Estudando Arquitetura de Software, Microsserviços 
-* 🧹 Adepto de Clean Code e boas práticas
-* 🚀 Sempre buscando evoluir como engenheiro de software
+* 🎯 Focado em Backend
+* 🎓 Engenharia de Software — 6º período
+* 🚀 Aluno da Rocketseat
+* 📚 Estudando Arquitetura de Software, Microsserviços e Sistemas Distribuídos
 
-## Tecnologias
+## 🛠 Stack
 
-**Backend**
+### Backend
 
-`Node.js` • `NestJS` • `Fastify` • `TypeScript` • `Prisma` • `PostgreSQL` • `Redis`
+`Node.js` • `TypeScript` • `NestJS` • `Fastify` • `Prisma` • `PostgreSQL` • `Redis`
 
-**Frontend**
+### Frontend
 
 `React` • `Next.js` • `React Native` • `Angular`
 
-**Ferramentas**
+### Ferramentas
 
-`Git` • `GitHub` • `Docker` • `AWS`
+`Docker` • `Git` • `GitHub` • `AWS`
 
-## GitHub
+## 📬 Contato
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=souzannatha&show_icons=true&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzannatha&layout=compact&hide_border=true"/>
-</p>
-
-## Contato
-
-* LinkedIn: https://www.linkedin.com/in/natha-souza-lopes/
-* Email: **[souzanatha04@gmail.com](mailto:souzanatha04@gmail.com)**
+* LinkedIn → https://www.linkedin.com/in/natha-souza-lopes/
+* E-mail → [souzanatha04@gmail.com](mailto:souzanatha04@gmail.com)

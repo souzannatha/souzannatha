@@ -7,16 +7,14 @@ Sou **Desenvolvedor Full Stack** com foco em **Backend**. Gosto de criar aplica�
 
 No dia a dia, trabalho com o desenvolvimento de aplicações web, mobile e APIs utilizando o ecossistema JavaScript/TypeScript. Tenho direcionado minha carreira para backend e engenharia de software, buscando entender não apenas como implementar uma solução, mas também as decisões de arquitetura que tornam um sistema mais robusto e fácil de manter.
 
-Atualmente curso **Engenharia de Software (6º período)** e também sou aluno da **Rocketseat**. Ainda assim, acredito que grande parte do aprendizado acontece na prática. Gosto de pesquisar, testar novas tecnologias e quebrar a cabeça até entender como as coisas realmente funcionam e encontrar a melhor solução para cada desafio.
+Atualmente curso **Engenharia de Software (6º período)**. Ainda assim, acredito que grande parte do aprendizado acontece na prática. Gosto de pesquisar, testar novas tecnologias e quebrar a cabeça até entender como as coisas realmente funcionam e encontrar a melhor solução para cada desafio.
 
 
-## 🚀 Atualmente
+## Atualmente
 
-* 💼 Desenvolvedor Full Stack
-* 🎯 Focado em Backend
-* 🎓 Engenharia de Software — 6º período
-* 🚀 Aluno da Rocketseat
-* 📚 Estudando Arquitetura de Software, Microsserviços e Sistemas Distribuídos
+* Desenvolvedor Full Stack
+* Engenharia de Software
+* Estudando Arquitetura de Software, Microsserviços e Sistemas Distribuídos
 
 ## 🛠 Stack
 
@@ -30,9 +28,9 @@ Atualmente curso **Engenharia de Software (6º período)** e também sou aluno d
 
 ### Ferramentas
 
-`Docker` • `Git` • `GitHub` • `AWS`
+`Docker` • `Git` • `GitHub` • `AWS` • `Claude Code`
 
-## 📬 Contato
+## Contato
 
 * LinkedIn → https://www.linkedin.com/in/natha-souza-lopes/
 * E-mail → [souzanatha04@gmail.com](mailto:souzanatha04@gmail.com)

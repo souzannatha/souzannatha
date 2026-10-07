@@ -16,7 +16,7 @@ Atualmente curso **Engenharia de Software (6º período)**. Ainda assim, acredit
 * Engenharia de Software
 * Estudando Arquitetura de Software, Microsserviços e Sistemas Distribuídos
 
-## 🛠 Stack
+## Stack
 
 ### Backend
 
